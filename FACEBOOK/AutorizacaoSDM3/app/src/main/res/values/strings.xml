@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">AutorizacaoSDM3</string>
-    <string name="facebook_app_id">1254474881313153</string>
-    <string name="cancel_login">Login cancelado pelo usuário</string>
-    <string name="error_login">Ocorreu um erro durante o login</string>
-    <string name="welcome">Bem vindo!</string>
-    <string name="logout">Sair</string>
-</resources>
